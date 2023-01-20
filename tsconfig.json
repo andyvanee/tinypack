@@ -3,9 +3,10 @@
     "module": "commonjs",
     "outDir": "dist",
     "strict": true,
-    "target": "es2017"
+    "target": "es2017",
   },
   "files": [
-    "src/tinypack.ts"
+    "src/index.ts",
+    "src/cli.ts"
   ]
 }

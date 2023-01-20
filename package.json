@@ -5,7 +5,7 @@
   "repository": "git@github.com:utatti/tinypack.git",
   "author": "Jun <noraesae+dev@gmail.com>",
   "license": "MIT",
-  "main": "dist/tinypack.js",
+  "main": "dist/index.js",
   "bin": {
     "tinypack": "bin/tinypack"
   },
