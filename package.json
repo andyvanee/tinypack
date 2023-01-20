@@ -21,10 +21,10 @@
     "postinstall": "yarn build"
   },
   "dependencies": {
-    "@types/node": "^10.1.4",
-    "typescript": "^2.9.1"
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
   },
   "devDependencies": {
-    "moment": "^2.22.2"
+    "moment": "^2.29.4"
   }
 }
