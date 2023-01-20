@@ -1,6 +1,6 @@
 {
   "name": "@andyvanee/tinypack",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A simple TypeScript module bundler",
   "repository": "git@github.com:andyvanee/tinypack.git",
   "author": "Jun <noraesae+dev@gmail.com>",
